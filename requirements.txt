@@ -1,0 +1,14 @@
+boto3
+awscli
+langchain
+langchain-openai
+openai
+faiss-cpu
+langchain-text-splitters
+langchain-community
+streamlit
+langchain.llms.bedrock
+langchain.text_splitter
+langchain.vectorstores
+langchain.prompts
+langchain.chains
